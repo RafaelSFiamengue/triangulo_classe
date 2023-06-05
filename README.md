@@ -35,7 +35,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Programa que calcula a area de 2 triângulos pelo uso de classe
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
@@ -49,44 +49,33 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 ## Distribuição
 Link para teste da versão disponibilizada.
 
-## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
+## Pré-requisitos ⚠️     
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Microsoft Visual Studio Community 2022
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Basta copiar o código e colar ou no Microsoft Visual Studio Community 2022 ou no Programiz
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Todos os testes foram realizados com sucesso
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 XML
 ...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Todos os problemas foram resolvidos
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+O programa está completo
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Rafael Silva Fiamengue
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - Rafael Silva Fiamengue
